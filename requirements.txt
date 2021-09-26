@@ -1,2 +1,3 @@
 In order to install requests and json libraries, you need to use following commands in your terminal
 - pip install requests
+- pip install simplejson
