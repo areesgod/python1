@@ -6,4 +6,3 @@ In order to use this program you need install requests library
 - Usage example:
 listofcoins(11)
 - This function will output top 10 crypto currencies according to market capitalization in descending order 
-- 
