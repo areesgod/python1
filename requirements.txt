@@ -1,0 +1,2 @@
+In order to install requests library, you need to use following commands in your terminal
+- pip install requests
