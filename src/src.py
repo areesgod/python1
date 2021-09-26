@@ -1,5 +1,4 @@
 import requests
-import json
 
 #Getting data from requests library 
 r = requests.get(
